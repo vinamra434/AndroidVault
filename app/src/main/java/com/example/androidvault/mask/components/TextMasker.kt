@@ -1,4 +1,4 @@
-package com.example.androidvault.mask
+package com.example.androidvault.mask.components
 
 class TextMasker {
     companion object {
